@@ -232,3 +232,5 @@ Updated daily :) If it was helpful please press a star.
         - Day 6 - The Central Limit Theorem I | [Problem](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Tutorials/01.%2010%20Days%20of%20Statistics/014.%20Day%206%20-%20The%20Central%20Limit%20Theorem%20I.py) | Score: 30
         - Day 6 - The Central Limit Theorem II | [Problem](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Tutorials/01.%2010%20Days%20of%20Statistics/015.%20Day%206%20-%20The%20Central%20Limit%20Theorem%20II.py) | Score: 30
         - Day 6 - The Central Limit Theorem III | [Problem](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Tutorials/01.%2010%20Days%20of%20Statistics/016.%20Day%206%20-%20The%20Central%20Limit%20Theorem%20III.py) | Score: 30
+#   g i t h u b - d e m o  
+ 
